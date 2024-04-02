@@ -14,7 +14,7 @@ Aquaa Bravoo is a web application built using ASP.NET Core MVC framework. It is 
 - **HTML/CSS/JavaScript**: For frontend development and user interface.
 - **Entity Framework Core**: For data access and management.
 ## Screenshots
-![Screenshot 1](/Screenshot_2024-03-17_020536.jpg)
+![Screenshot 1](https://github.com/Hany-kelany/AquaaBravoProject/blob/main/Screenshot%202024-03-17%20020536.jpg)
 ![Screenshot 2](/Screenshot_2024-03-17_020637.jpg)
 ![Screenshot 3](/Screenshot_2024-03-23_003253.jpg)
 ![Screenshot 4](/Screenshot_2024-03-23_003326.jpg)
